@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Experience= props =>{
-    console.log(props.data)
     return(
         <div className="Experience">
             
