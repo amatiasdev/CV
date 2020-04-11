@@ -33,6 +33,6 @@ module.exports = {
 			template:"./public/index.html",
 			file:"./index.html"
 		}),
-		new FaviconsWebpackPlugin('./public/icon.png'),
+		/* new FaviconsWebpackPlugin('./public/icon.png'), */
 	]
 }
